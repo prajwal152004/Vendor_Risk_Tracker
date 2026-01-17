@@ -1,0 +1,82 @@
+[
+  {
+    "vendor_id": "VND001",
+    "vendor_name": "PayrollPro",
+    "business_function": "HR",
+    "vendor_type": "SaaS",
+    "data_sensitivity": "PII",
+    "access_level": "Admin",
+    "criticality": "High",
+    "security_rating": 3
+  },
+  {
+    "vendor_id": "VND002",
+    "vendor_name": "CloudCRM",
+    "business_function": "Sales",
+    "vendor_type": "SaaS",
+    "data_sensitivity": "PII",
+    "access_level": "Read-Write",
+    "criticality": "Medium",
+    "security_rating": 4
+  },
+  {
+    "vendor_id": "VND003",
+    "vendor_name": "FinLedger",
+    "business_function": "Finance",
+    "vendor_type": "SaaS",
+    "data_sensitivity": "Financial",
+    "access_level": "Read",
+    "criticality": "High",
+    "security_rating": 5
+  },
+  {
+    "vendor_id": "VND004",
+    "vendor_name": "MarketAnalytics",
+    "business_function": "Marketing",
+    "vendor_type": "Third-Party Agency",
+    "data_sensitivity": "Public",
+    "access_level": "Read",
+    "criticality": "Low",
+    "security_rating": 4
+  },
+  {
+    "vendor_id": "VND005",
+    "vendor_name": "InfraOps",
+    "business_function": "IT",
+    "vendor_type": "Managed Service Provider",
+    "data_sensitivity": "PII",
+    "access_level": "Admin",
+    "criticality": "Critical",
+    "security_rating": 2
+  },
+  {
+    "vendor_id": "VND006",
+    "vendor_name": "RecruitEase",
+    "business_function": "HR",
+    "vendor_type": "SaaS",
+    "data_sensitivity": "PII",
+    "access_level": "Read",
+    "criticality": "Medium",
+    "security_rating": 3
+  },
+  {
+    "vendor_id": "VND007",
+    "vendor_name": "DevCollab",
+    "business_function": "Engineering",
+    "vendor_type": "SaaS",
+    "data_sensitivity": "IP",
+    "access_level": "Read-Write",
+    "criticality": "High",
+    "security_rating": 4
+  },
+  {
+    "vendor_id": "VND008",
+    "vendor_name": "SupportDesk",
+    "business_function": "Customer Support",
+    "vendor_type": "Outsourced Vendor",
+    "data_sensitivity": "PII",
+    "access_level": "Read",
+    "criticality": "Medium",
+    "security_rating": 2
+  }
+]

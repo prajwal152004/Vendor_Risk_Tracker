@@ -1,0 +1,90 @@
+[
+  {
+    "risk_id": "RISK-086f21",
+    "vendor_id": "VND001",
+    "risk_category": "Third Party Risk",
+    "risk_description": "PayrollPro has access to PII data",
+    "inherent_risk": 100,
+    "residual_risk": 70,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Risk Accepted"
+  },
+  {
+    "risk_id": "RISK-eeae49",
+    "vendor_id": "VND002",
+    "risk_category": "Third Party Risk",
+    "risk_description": "CloudCRM has access to PII data",
+    "inherent_risk": 60,
+    "residual_risk": 60,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  },
+  {
+    "risk_id": "RISK-7ce591",
+    "vendor_id": "VND003",
+    "risk_category": "Third Party Risk",
+    "risk_description": "FinLedger has access to Financial data",
+    "inherent_risk": 0,
+    "residual_risk": 0,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  },
+  {
+    "risk_id": "RISK-c0dcb3",
+    "vendor_id": "VND004",
+    "risk_category": "Third Party Risk",
+    "risk_description": "MarketAnalytics has access to Public data",
+    "inherent_risk": 5,
+    "residual_risk": 5,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  },
+  {
+    "risk_id": "RISK-b55735",
+    "vendor_id": "VND005",
+    "risk_category": "Third Party Risk",
+    "risk_description": "InfraOps has access to PII data",
+    "inherent_risk": 100,
+    "residual_risk": 100,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Exception Expired"
+  },
+  {
+    "risk_id": "RISK-dc9588",
+    "vendor_id": "VND006",
+    "risk_category": "Third Party Risk",
+    "risk_description": "RecruitEase has access to PII data",
+    "inherent_risk": 60,
+    "residual_risk": 60,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  },
+  {
+    "risk_id": "RISK-283f50",
+    "vendor_id": "VND007",
+    "risk_category": "Third Party Risk",
+    "risk_description": "DevCollab has access to IP data",
+    "inherent_risk": 100,
+    "residual_risk": 100,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  },
+  {
+    "risk_id": "RISK-d51a0d",
+    "vendor_id": "VND008",
+    "risk_category": "Third Party Risk",
+    "risk_description": "SupportDesk has access to PII data",
+    "inherent_risk": 90,
+    "residual_risk": 90,
+    "mitigation": "Pending",
+    "risk_owner": "GRC Team",
+    "status": "Open"
+  }
+]

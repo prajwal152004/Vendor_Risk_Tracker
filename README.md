@@ -1,6 +1,6 @@
 Third-Party Vendor Risk Assessment Tracker (GRC)
 
-Overview
+ Overview
 
 This project simulates a **Third-Party Vendor Risk Management (TPRM)** system used by enterprise security and GRC teams to assess, track, and govern risks introduced by external vendors.
 
@@ -8,8 +8,9 @@ The system evaluates vendors based on **access level, data sensitivity, business
 
 This project is designed as a **governance-focused simulation**, emphasizing explainable risk decisions rather than UI complexity.
 
+---
 
-Why Third-Party Risk Management Matters
+ Why Third-Party Risk Management Matters
 
 Modern enterprises rely heavily on third-party vendors (SaaS, MSPs, contractors, support vendors). These vendors often have access to sensitive data or systems, making them a major source of security and compliance risk.
 
@@ -21,6 +22,8 @@ Key challenges addressed:
 * Expired exceptions leading to hidden compliance gaps
 
 This project demonstrates how these challenges are handled in **real-world GRC workflows**.
+
+---
 
 Key Features
 
@@ -133,5 +136,5 @@ This project is a **functional simulation** intended for learning and demonstrat
 
 
 Author
-**Prajwal DM**
-**Cybersecurity | IAM | GRC |**
+Prajwal DM
+Cybersecurity | IAM | GRC | Identity-First Security
